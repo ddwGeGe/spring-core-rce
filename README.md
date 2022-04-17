@@ -9,7 +9,7 @@ Spring-Core-Rce-Tools Go
 
 ## 工具使用
 
-![image](https://user-images.githubusercontent.com/44337217/163709870-f63c1a67-38d3-4a73-ac49-53aac261905c.png)
+![image](https://user-images.githubusercontent.com/44337217/163709910-a053a00a-eb88-4e7f-93fa-72ea9afe3265.png)
 
 
 ## 漏洞复现
@@ -21,3 +21,6 @@ Spring-Core-Rce-Tools Go
 ### Linux
 
 ![image](https://user-images.githubusercontent.com/44337217/163709821-2a287cf9-f111-4fa5-ac9d-a5757d6e206e.png)
+
+
+仅供学习,切勿用作非法攻击
